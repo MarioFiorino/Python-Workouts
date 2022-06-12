@@ -7,7 +7,7 @@ def occ(a):
        d[a[i]] = 1
      else:
        d[a[i]] += 1
-  return d        
+  return d        #This dictionary count the occurrence of each number in array 
 
 
 def m_d(d):
@@ -51,7 +51,7 @@ arr = [3,1,2,3,4,78,1,1,2,2]
 arr2 = [7,25,7,3,25,4,5,6,9,8,8,9]
 arr3 = [1,1,1,1,1,9,1,1]
 
-diz = occ(arr)  ##This dictionary count the occurrence of each number in array 
+diz = occ(arr)  
 #print(diz) #{3: 2, 1: 3, 2: 3, 4: 1, 78: 1} # 
 lo,maxd = m_d(diz)
 print("The shortest sub-arrays that share array degree:")
