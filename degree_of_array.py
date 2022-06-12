@@ -7,7 +7,7 @@ def occ(a):
        d[a[i]] = 1
      else:
        d[a[i]] += 1
-  return d        #This dictionary count the occurrence of each number in array 
+  return d   # This dictionary count the occurrence of each number in input array 
 
 
 def m_d(d):
