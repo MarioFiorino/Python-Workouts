@@ -11,7 +11,7 @@ Given an array of integers, divide the array into 2 subsets: A and B; while resp
 
 If more then one subset A exists, return the one with the maximal sum
 
->Solution in file :
+>Solution in file :[array_subsets.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/array_subsets.py)
 
 ## Degree of array 
 
