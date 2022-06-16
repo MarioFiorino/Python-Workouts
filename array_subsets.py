@@ -16,7 +16,7 @@ def find_sub_arr(arr):
         ct+=1
         A.append(arr[len(arr)-ct])
 
-    B = [arr[i] for i in range(0,(len(arr)- ct))] #This B = arr[:(len(arr)-ct)] this works just as well
+    B = [arr[i] for i in range(0,(len(arr)- ct))] #This B = arr[:(len(arr)-ct)] works just as well
 
     sumA = sum(A) 
     sumB = sum(B)
