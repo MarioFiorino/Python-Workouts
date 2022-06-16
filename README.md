@@ -2,6 +2,17 @@
 In this repository some proposed solutions (and some suggestions) to interesting exercises found on the web, in Python. New exercises and related solutions will be added. Requests to find solutions to Python problem of all kinds are welcome. Write me!
 
 
+## Array subsets
+Given an array of integers, divide the array into 2 subsets: A and B; while respecting the following conditions:
+- The intersections of A and B is null
+- The union A and B is equal to original array
+- The number of elements in subset A is minimal
+- The sum of A's elements is greater than the sum of B's elements
+
+If more then one subset A exists, return the one with the maximal sum
+
+>Solution in file :
+
 ## Degree of array 
 
 Given an array of integer, its degree is defined as the number of occurrences of the element that occurs most frequently in array.
