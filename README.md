@@ -35,6 +35,11 @@ Using object-oriented programming (OOP), is defined a zoo, with cages and animal
 
 >In file : [At_the_zoo.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/At_the_zoo.ipynb)
 
+## Tricky dice 
+
+Using object-oriented programming (OOP),
+
+
 ## Work with files in Google Colab
 
 Some instructions and tips on how to manage files in Colab cell
