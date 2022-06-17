@@ -39,7 +39,7 @@ Using object-oriented programming (OOP), is defined a zoo, with cages and animal
 
 Using object-oriented programming (OOP), make a dice with an arbitrary number of sides (but by default they are 6), which, if required, can tricky or not.
 
->In file : 
+>In file : [Tricky_dice.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/Tricky_dice.py)
 
 ## Work with files in Google Colab
 
