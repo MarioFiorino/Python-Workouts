@@ -8,13 +8,13 @@ class Dice():
     self.sides= side
     self.tricky = tri
 
-  def roll_dice(self): # roll dice 10 times for each run
+  def roll_dice(self,nr): # nr = number of dice rolls for each run
     lr = []
-    for _ in range(1,10):
+    for _ in range(1,nr):
       n = random.randint(1,self.sides)
       
-      if self.tricky == True:
-        n = random.randint(self.sides-2,self.sides)
+      if (self.tricky == True):
+        n = random.randint(self.sides-1,self.sides)
 
       lr.append(n)
     
@@ -22,12 +22,12 @@ class Dice():
     
     
 d1 = Dice(False)  #  regular 6 sided dice
-for _ in range(0,5): # 5 run of 10 roll die 
-  print(d1.roll_dice())
+for _ in range(0,5): # 5 run of 10 roll dice 
+  print(d1.roll_dice(10))
 
 print("")
 
 d2 = Dice(True,10)  #  tricky 10 sided dice
-for _ in range(0,5):
-  print(d2.roll_dice())  
+for _ in range(0,3):
+  print(d2.roll_dice(8)) 
   
