@@ -29,6 +29,12 @@ Given an array, increment any duplicate elements until all elements are unique. 
 
 >Solution in file : [minimum_unique_array_sum.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/minimum_unique_array_sum.py)
 
+## Orthogonal triangles
+
+Given an array of positive integers, find the number of orthogonal triangles that can be formed with three elements of this array.
+
+>Solution in file : [right_triangles.py]()
+
 ## At the Zoo
 
 Using object-oriented programming (OOP), is defined a zoo, with cages and animals. In addition, is given the opportunity to formulate queries about animals present in zoo.
