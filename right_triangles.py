@@ -1,5 +1,3 @@
-#Given an array of positive integers, find the number of orthogonal triangles that can be formed with three elements of this array.
-
 #!usr/bin/bash python
 
 def right_triangles(arr_sides):
