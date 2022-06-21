@@ -13,7 +13,7 @@ If more then one subset A exists, return the one with the maximal sum
 
 >Solution in file : [array_subsets.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/array_subsets.py)
 
-## Degree of array 
+## Degree of array and more
 
 Given an array of integer, its degree is defined as the number of occurrences of the element that occurs most frequently in array.
 Determine two properties:
@@ -29,11 +29,11 @@ Given an array, increment any duplicate elements until all elements are unique. 
 
 >Solution in file : [minimum_unique_array_sum.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/minimum_unique_array_sum.py)
 
-## Orthogonal triangles
+## Right triangles
 
 Given an array of positive integers, find the number of orthogonal triangles that can be formed with three elements of this array.
 
->Solution in file : [right_triangles.py]()
+>Solution in file : [right_triangles.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/right_triangles.py)
 
 ## At the Zoo
 
