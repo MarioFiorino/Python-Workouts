@@ -3,7 +3,7 @@
 
 def ffr(ls): # find first repeated word in sentence
   
-  diz = {}
+  sw = set()
   w = None
   es= "|"  # end of sentence
 
@@ -12,18 +12,17 @@ def ffr(ls): # find first repeated word in sentence
     if i == es:
       break
 
-    elif i not in diz.keys():
-      diz[i] = 1
+    elif i not in sw:
+      sw.add(i) 
     
     else :
-      diz[i] += 1
       w = i # first repeated word in sentence
       break
 
   return  w  
   
   
-s = "one two bye yes Two one."
+s = "one two bye yes Two one. "
 s1 = "Hola, Hola hola. "
 s2 = "He had had quite enough of this games of;; of. "
 s3 = ".Ciao."
