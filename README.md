@@ -23,15 +23,14 @@ Determine two properties:
 >Solution in file : [degree_of_array.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/degree_of_array.py)
 
 ## First repeated word in a sentence
-Given an sentence,find the first repeated word. Note: each sentence is bounded by comma,colon,semicolon,...
-
+Given an sentence, find the first repeated word. Note: each sentence is bounded by comma,colon,semicolon,...
 E.g. : 
 input : " We work hard becouse hard work pays."
 out: "hard"
 
->Solution in file : [degree_of_array.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/degree_of_array.py)
+>Solution in file : [first_repeated_word.py ](https://github.com/MarioFiorino/Python-Workouts/blob/main/first_repeated_word.py)
 
->Solution in file : [degree_of_array.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/degree_of_array.py)
+>Solution, more complex version, in file : [first_repeated_word2.py ](https://github.com/MarioFiorino/Python-Workouts/blob/main/first_repeated_word2.py)
 
 
 ## Minimum unique array sum
