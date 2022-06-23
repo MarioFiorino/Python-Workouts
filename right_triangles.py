@@ -1,4 +1,4 @@
-#!usr/bin/bash python
+#!/usr/bin/env python3
 
 def right_triangles(arr_sides):
 
