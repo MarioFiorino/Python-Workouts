@@ -16,7 +16,6 @@ def ffr(ls): # find first repeated word in sentence
       diz[i] = 1
     
     else :
-      #diz[i] += 1
       w = i # first repeated word in sentence
       break
 
