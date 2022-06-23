@@ -45,7 +45,6 @@ for i in ls:
        print("First words repeated: ",fw)
     lw = []
 	 
-#out:
 #['he', 'had', 'had', 'quite', 'enough', 'of', 'this', 'games', 'of', '|', '|', 'the', 'sword', 'swords', 'the', '|']
 #First words repeated:  had
 #No repeats found
