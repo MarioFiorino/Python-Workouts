@@ -23,7 +23,7 @@ Determine two properties:
 >Solution in file : [degree_of_array.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/degree_of_array.py)
 
 ## First repeated word in a sentence
-Given an sentence, find the first repeated word. Note: each sentence is bounded by comma,colon,semicolon,ect.
+Given an sentence, find the first repeated word. Note: each sentence is bounded by comma, colon, semicolon, ect.
 
 E.g. : 
 input : " We work hard becouse hard work pays."
@@ -39,9 +39,9 @@ output: "hard"
 Given an array of integers, without reordering, determine the maximum diffrence between any element and any prior smaller difference.
 
 E.g. :
-input : [5,3,6,7,4]
+input : [15,3,7,6,2,1]
 
-out : The maximum trailing record is  l[3] -  l[1]  = 4
+out : The maximum trailing record is  l[2] -  l[1]  = 4
 
 >Solution in file : [max_diff_rec.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/max_diff_rec.py)
 
