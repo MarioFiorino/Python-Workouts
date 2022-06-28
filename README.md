@@ -43,7 +43,7 @@ input : [5,3,6,7,4]
 
 out : The maximum trailing record is  l[3] -  l[1]  = 4
 
->Solution in file : [max_diff_rec.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/river_records.py)
+>Solution in file : [max_diff_rec.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/max_diff_rec.py)
 
 ## Minimum unique array sum
 
