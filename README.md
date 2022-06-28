@@ -32,6 +32,14 @@ output: "hard"
 
 >Solution, more complex version, in file : [first_repeated_word2.py ](https://github.com/MarioFiorino/Python-Workouts/blob/main/first_repeated_word2.py)
 
+## River Records
+
+Given an array of integers, without reordering, determine the maximum diffrence between any element and any prior smaller difference.
+E.g. :
+input : [5,3,6,7,4]
+out : The maximumun trailing record is l[3 - l[1] = 4
+
+>Solution in file : [minimum_unique_array_sum.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/minimum_unique_array_sum.py)
 
 ## Minimum unique array sum
 
