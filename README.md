@@ -27,21 +27,23 @@ Given an sentence, find the first repeated word. Note: each sentence is bounded 
 
 E.g. : 
 input : " We work hard becouse hard work pays."
+
 output: "hard"
 
 >Solution in file : [first_repeated_word.py ](https://github.com/MarioFiorino/Python-Workouts/blob/main/first_repeated_word.py)
 
 >Solution, more complex version, in file : [first_repeated_word2.py ](https://github.com/MarioFiorino/Python-Workouts/blob/main/first_repeated_word2.py)
 
-## River Records
+## Maximum difference records
 
 Given an array of integers, without reordering, determine the maximum diffrence between any element and any prior smaller difference.
 
 E.g. :
 input : [5,3,6,7,4]
-out : The maximumun trailing record is l[3 - l[1] = 4
 
->Solution in file : [river_records.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/river_records.py)
+out : The maximum trailing record is l[3 - l[1] = 4
+
+>Solution in file : [max_diff_rec.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/river_records.py)
 
 ## Minimum unique array sum
 
