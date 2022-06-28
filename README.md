@@ -24,6 +24,7 @@ Determine two properties:
 
 ## First repeated word in a sentence
 Given an sentence, find the first repeated word. Note: each sentence is bounded by comma,colon,semicolon,ect.
+
 E.g. : 
 input : " We work hard becouse hard work pays."
 output: "hard"
@@ -35,11 +36,12 @@ output: "hard"
 ## River Records
 
 Given an array of integers, without reordering, determine the maximum diffrence between any element and any prior smaller difference.
+
 E.g. :
 input : [5,3,6,7,4]
 out : The maximumun trailing record is l[3 - l[1] = 4
 
->Solution in file : [minimum_unique_array_sum.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/minimum_unique_array_sum.py)
+>Solution in file : [river_records.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/river_records.py)
 
 ## Minimum unique array sum
 
