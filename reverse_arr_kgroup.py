@@ -32,7 +32,7 @@ def arr_sub_rev(l,k):
       for i in sub_l:
         new_l.append(i)
       sub_l = []
-      indx = (((j+1))*k)
+    indx = (((j+1))*k)
 
   #fill the rest of the array, if necessary
   if indx != len(l):
@@ -42,9 +42,8 @@ def arr_sub_rev(l,k):
   return new_l  
   
 l  = [1,2,3,4,5,6,7,8,9,10,11]
-l1 = [1,5,8]
-l2 = [4]
-l3 = [1,2,3,4,5,6,7,8,9,10,11,12]
+l1 = [4]
+l2 = [1,2,3,4,5,6,7,8,9,10,11,12]
 
 k = inser_value(len(l))
 
