@@ -26,7 +26,6 @@ def arr_sub_rev(l,k):
 
   else: 
     for j in range(0,d):
-      #print(j)
       sub_l = [l[i] for i in range((j*k),((j+1))*k)]
       #print(sub_l)
       sub_l =  sorted(sub_l, reverse = True)
