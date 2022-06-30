@@ -22,10 +22,25 @@ Determine two properties:
 
 >Solution in file : [degree_of_array.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/degree_of_array.py)
 
+## Reverse array in k group
+
+Given an array of integer, reverse the values of the array k at a time, and return the modified array.
+
+k is a positive integer and is less than or equal to the length of the array. If the number of values is not a multiple of k then left-out values, in the end, should remain as it is.
+
+E.g.:
+
+input1  : l = [1,2,3,4,5,6], k = 2;         output : [2,1,4,3,6,5]
+
+input2  : l = [1,2,3,4,5,6], k = 4;         output : [4,3,2,1,5,6]
+
+>Solution in file : [reverse_arr_kgroup.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/reverse_arr_kgroup.py)
+
 ## First repeated word in a sentence
 Given an sentence, find the first repeated word. Note: each sentence is bounded by comma, colon, semicolon, ect.
 
 E.g. : 
+
 input : " We work hard becouse hard work pays."
 
 output: "hard"
@@ -39,6 +54,7 @@ output: "hard"
 Given an array of integers, without reordering, determine the maximum diffrence between any element and any prior smaller difference.
 
 E.g. :
+
 input : [15,3,7,6,2,1]
 
 out : The maximum trailing record is  l[2] -  l[1]  = 4
