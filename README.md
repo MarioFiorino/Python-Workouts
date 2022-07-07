@@ -30,9 +30,9 @@ k is a positive integer and is less than or equal to the length of the array. If
 
 E.g.:
 
-input1  : l = [1,2,3,4,5,6], k = 2 ; ___ output : [2,1,4,3,6,5]
+input1  : l = [1,2,3,4,5,6], k = 2 ;  &nbsp; &nbsp; &nbsp; &nbsp;  output : [2,1,4,3,6,5]
 
-input2  : l = [1,2,3,4,5,6], k = 4 ; ___ output : [4,3,2,1,5,6]
+input2  : l = [1,2,3,4,5,6], k = 4 ;  &nbsp; &nbsp; &nbsp; &nbsp; output : [4,3,2,1,5,6]
 
 >Solution in file : [reverse_arr_kgroup.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/reverse_arr_kgroup.py)
 
@@ -41,7 +41,7 @@ Given an array of integer, there is a sliding window of size k which is moving f
 
 E.g.:
 
-input : [1,3,-1,-3,5,3,6,7], k = 3 ;        output :   [3,3,5,5,6,7]
+input : [1,3,-1,-3,5,3,6,7], k = 3 ;  &nbsp; &nbsp; &nbsp; &nbsp;  output :   [3,3,5,5,6,7]
 
 Explanation:    
 
