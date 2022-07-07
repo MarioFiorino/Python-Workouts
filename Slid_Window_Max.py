@@ -7,7 +7,7 @@ class Solution:
 
     def maxSlidingWindow(self):
       if len(self.data)== 1:
-         print("The max Value in window : ", self.data[0])
+         print("The max value in window : ", self.data[0])
          return self.data[0]
 
       elif len(self.data) < 1:
@@ -30,11 +30,12 @@ class Solution:
            if c == (len(self.data)+1)-k:
                break
 
-         print("The max Value in ",len(list_max) ," windows : ", list_max)
+         print("The max value in ",len(list_max) ," windows : ", list_max)
          return list_max
 
       else:
-         print("The size 'k' of sliding windows shouldn't be bigger than len of array data") 
+         print("The max value in window : ", max(data))
+         print("Note: The size 'k' of sliding windows shouldn't be bigger than len of array data")
 			
 
 ###
