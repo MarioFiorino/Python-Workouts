@@ -36,6 +36,28 @@ input2  : l = [1,2,3,4,5,6], k = 4;         output : [4,3,2,1,5,6]
 
 >Solution in file : [reverse_arr_kgroup.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/reverse_arr_kgroup.py)
 
+##  Sliding Window Maximum
+Given an array of integer, there is a sliding window of size k which is moving from the very left of the array to the very right. Each time the sliding window moves right by one position. Return the maximun value for each sliding window.
+
+E.g.:
+
+input : [1,3,-1,-3,5,3,6,7], k = 3         output :   [3,3,5,5,6,7]
+
+Explanation:
+
+Window position                Max
+---------------               -----
+[1  3  -1] -3  5  3  6  7       3
+ 1 [3  -1  -3] 5  3  6  7       3
+ 1  3 [-1  -3  5] 3  6  7       5
+ 1  3  -1 [-3  5  3] 6  7       5
+ 1  3  -1  -3 [5  3  6] 7       6
+ 1  3  -1  -3  5 [3  6  7]      7
+
+
+>Solution in file : [Slid_Window_Max.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/Slid_Window_Max.py)
+
+
 ## First repeated word in a sentence
 Given an sentence, find the first repeated word. Note: each sentence is bounded by comma, colon, semicolon, ect.
 
