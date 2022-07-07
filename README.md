@@ -30,9 +30,9 @@ k is a positive integer and is less than or equal to the length of the array. If
 
 E.g.:
 
-input1  : l = [1,2,3,4,5,6], k = 2 ;         output : [2,1,4,3,6,5]
+input1  : l = [1,2,3,4,5,6], k = 2 ; ___ output : [2,1,4,3,6,5]
 
-input2  : l = [1,2,3,4,5,6], k = 4 ;         output : [4,3,2,1,5,6]
+input2  : l = [1,2,3,4,5,6], k = 4 ; ___ output : [4,3,2,1,5,6]
 
 >Solution in file : [reverse_arr_kgroup.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/reverse_arr_kgroup.py)
 
