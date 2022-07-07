@@ -45,15 +45,20 @@ input : [1,3,-1,-3,5,3,6,7], k = 3         output :   [3,3,5,5,6,7]
 
 Explanation:
 
-Window position                Max
----------------               -----
-[1  3  -1] -3  5  3  6  7       3
- 1 [3  -1  -3] 5  3  6  7       3
- 1  3 [-1  -3  5] 3  6  7       5
- 1  3  -1 [-3  5  3] 6  7       5
- 1  3  -1  -3 [5  3  6] 7       6
- 1  3  -1  -3  5 [3  6  7]      7
+Window position       
 
+[1  3  -1] -3  5  3  6  7    ->    3
+
+ 1 [3  -1  -3] 5  3  6  7    ->    3
+ 
+ 1  3 [-1  -3  5] 3  6  7    ->    5
+ 
+ 1  3  -1 [-3  5  3] 6  7    ->    5
+ 
+ 1  3  -1  -3 [5  3  6] 7    ->    6
+ 
+ 1  3  -1  -3  5 [3  6  7]   ->    7
+ 
 
 >Solution in file : [Slid_Window_Max.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/Slid_Window_Max.py)
 
