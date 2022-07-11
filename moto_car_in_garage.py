@@ -16,8 +16,8 @@ class solution:
                 l.append(tup)
      return l
 
-fuel_tanks= 32 # 3  # 0 
-wheels = 56    # 6  # 9
+fuel_tanks= 32 # 3  # 0  # 1
+wheels = 56    # 6  # 9  # 4
 
 s = solution(fuel_tanks,wheels)
 lista = s.compute()
