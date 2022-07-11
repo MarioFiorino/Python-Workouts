@@ -42,7 +42,7 @@ else:
   # Adding constraint
   print("  -")
   print("  Knowing that there are ",fuel_tanks, "fuel tanks ")
-  lista = s.narrow_field() # Here you can use the same previous memory location
+  lista = s.narrow_field() # Here i reuse the same previous memory location, nothing changes for the purposes of the exercise.
   if lista == []:
        print("   with this number of fuel tanks there are no solutions")
   else:
