@@ -94,7 +94,7 @@ Given an array, increment any duplicate elements until all elements are unique. 
 
 ## Motorcycles and cars in a garage
 
-In a garage there are count 32 fuel tanks and 56 wheels among cars and motorcycles. How many motorcycles and how many cars there are potentially ( Note: the combined solution is not unique! ) in the garage?
+In a garage there are count 32 fuel tanks and 56 wheels among cars and motorcycles. How many motorcycles and how many cars there are potentially (Note: the combined solution is not unique!) in the garage?
 
 >Solution in file : [moto_car_in_garage.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/moto_car_in_garage.py)
 
