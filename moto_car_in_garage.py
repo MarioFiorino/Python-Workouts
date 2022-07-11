@@ -19,10 +19,10 @@ class solution:
 
   def narrow_field (self):
     lf = []
-    for idl in self.l:
-      n = sum(idl) 
+    for eil in self.l:
+      n = sum(eil) 
       if n==self.f:
-        lf.append(idl)
+        lf.append(eil)
     return lf
 
 
