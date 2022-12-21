@@ -99,6 +99,18 @@ In a garage there are count 16 fuel tanks and 62 wheels among cars and motorcycl
 >Solution in file : [moto_car_in_garage.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/moto_car_in_garage.py)
 
 
+## Deduction-based game
+
+Implement a deduction-based game, where the user must guess a randomly generated three-digits value according to trial and errors (and clues). Whenever the user try to guess the number, one or more of the following response is generated:
+
+Alfa if (at least) one correct digit is in the correct place;
+Bravo if (at least) one correct digit is in the wrong place;
+Charlie if no correct digits are present.
+
+The program provide a response for all the conditions matched by the current guess. The user is granted a parametrized maximum number of guesses in which he has to successfully guess the number.
+
+>Solution in file : [Deduction_based_game_3Digits.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Deduction_based_game_3Digits.ipynb)
+
 ## Right triangles
 
 Given an array of positive integers, find the number of orthogonal triangles that can be formed with three elements of this array.
