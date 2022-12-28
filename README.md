@@ -117,6 +117,13 @@ Given an array of positive integers, find the number of orthogonal triangles tha
 
 >Solution in file : [right_triangles.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/right_triangles.py)
 
+## Genetic algorithm, very easy version
+
+Strive to algorithmically generate a breed of smarter dogs, i.e., generate a population of dogs with an average smart factor higher than a given threshold, starting from a population way duller than our target.
+
+>Solution in file : [Easy_genetic_algorithm.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Easy_genetic_algorithm.ipynb)
+
+
 ## At the Zoo
 
 Using object-oriented programming (OOP), is defined a zoo, with cages and animals. In addition, is given the opportunity to formulate queries about animals present in zoo.
