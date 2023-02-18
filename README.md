@@ -119,7 +119,7 @@ We want to manage a simplified trading market in which we have to keep tracks of
 
 Devise an appropriate way to organise data in memory. -  Read titles and stock trades either from file or command line. -  Write a program that supports updating the available information introducing new titles, registering new operations and updating in turn the statistical values collected for each title.
 
->Solution in file : [Titles_trading.ipynb] (https://github.com/MarioFiorino/Python-Workouts/blob/main/Titles_trading.ipynb))
+>Solution in file : [Titles_trading.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Titles_trading.ipynb))
 
 ## Deduction-based game
 
