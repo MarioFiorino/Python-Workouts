@@ -98,6 +98,20 @@ In a garage there are count 16 fuel tanks and 62 wheels among cars and motorcycl
 
 >Solution in file : [moto_car_in_garage.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/moto_car_in_garage.py)
 
+## Playing with DNA
+DNA sequencing is the process of determining the nucleic acid sequence, i.e., the order of nucleotides in DNA. It includes any method or technology that is used to determine the order of the four bases: adenine (A), guanine (G), cytosine (C), and thymine (T).
+In such a scenario, you are tasked with solving the following requests. You are free to tackle them in whichever manner you deem most reasonable, relying on data structures of your choice.
+
+Task 1 - Basic sequencing
+Given a sequence like "ACCGXXCXXGTTACTGGGCXTTGT" of nucleotides mixed up with other elements, return the sub-sequences containing only contiguous subsets of ACTG ordered by length.Example :  in = "ACCGXXCXXGTTACTGGGCXTTGT", out = ["GTTACTGGGC", "ACCG", "TTGT", "C"]
+
+Task 2 - Counting bases
+Given a sequence like "ACTWGTGCTYGATRGTAGCYZGTW", count bases and print out the distribution of the elements you find within the input sequence. For this task, take into account all the bases you may find, even those outside of the usual ACTG set.
+
+Task 3 - Counting amino acids
+Amino acids are identified by one (or more) among DNA codons, which are sequences of 3 bases, according to the following table. Given a DNA sequence, count the occurrences of each amino acid both by specific codons and by name. For instance, if you were to find both TTT and TTC, you would have two distinct codons accounting both for Phenylalanine.
+
+>Solution in file : [Playing_with_DNA.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Playing_with_DNA.ipynb)
 
 ## Deduction-based game
 
