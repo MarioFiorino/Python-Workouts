@@ -103,7 +103,7 @@ DNA sequencing is the process of determining the nucleic acid sequence, i.e., th
 In such a scenario, you are tasked with solving the following requests. You are free to tackle them in whichever manner you deem most reasonable, relying on data structures of your choice.
 
 Task 1 - Basic sequencing
-Given a sequence like "ACCGXXCXXGTTACTGGGCXTTGT" of nucleotides mixed up with other elements, return the sub-sequences containing only contiguous subsets of ACTG ordered by length.Example :  in = "ACCGXXCXXGTTACTGGGCXTTGT", out = ["GTTACTGGGC", "ACCG", "TTGT", "C"]
+Given a sequence like "ACCGXXCXXGTTACTGGGCXTTGT" of nucleotides mixed up with other elements, return the sub-sequences containing only contiguous subsets of ACTG ordered by length. Example :  in = "ACCGXXCXXGTTACTGGGCXTTGT", out = ["GTTACTGGGC", "ACCG", "TTGT", "C"]
 
 Task 2 - Counting bases
 Given a sequence like "ACTWGTGCTYGATRGTAGCYZGTW", count bases and print out the distribution of the elements you find within the input sequence. For this task, take into account all the bases you may find, even those outside of the usual ACTG set.
@@ -112,6 +112,14 @@ Task 3 - Counting amino acids
 Amino acids are identified by one (or more) among DNA codons, which are sequences of 3 bases, according to the following table. Given a DNA sequence, count the occurrences of each amino acid both by specific codons and by name. For instance, if you were to find both TTT and TTC, you would have two distinct codons accounting both for Phenylalanine.
 
 >Solution in file : [Playing_with_DNA.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Playing_with_DNA.ipynb)
+
+## Titles trading
+
+We want to manage a simplified trading market in which we have to keep tracks of stock titles and buy/sell operations. Each stock title is uniquely identified by an alphanumerical code. Each trading operation is characterised by the number of stocks of a given title effectively bought (or sold), the date/time of the operation and the price per stock. We are interested in keeping tracks of all the transactions for each title, the min/max/average stock price for a title in a given date and the overall number of stocks sold of a title in each date. Write a program taking into account the following tasks:
+
+Devise an appropriate way to organise data in memory. -  Read titles and stock trades either from file or command line. -  Write a program that supports updating the available information introducing new titles, registering new operations and updating in turn the statistical values collected for each title.
+
+>Solution in file : [Titles_trading.ipynb] (https://github.com/MarioFiorino/Python-Workouts/blob/main/Titles_trading.ipynb))
 
 ## Deduction-based game
 
