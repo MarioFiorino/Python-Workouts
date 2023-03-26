@@ -133,6 +133,25 @@ The program provide a response for all the conditions matched by the current gue
 
 >Solution in file : [Deduction_based_game_3Digits.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Deduction_based_game_3Digits.ipynb)
 
+## Acrobatic gymnastics
+
+Acrobatic gymnastics is a competitive gymnastic discipline where teams of gymnasts work together and perform routines consisting of acrobatic moves, dance and tumbling passes, set to music.
+We are interested in modelling all the aspects pertaining to an acrobatic gymnastic competition.
+
+>Solution in file : [Acrobatic_gymnastics.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Acrobatic_gymnastics.ipynb)
+
+## Doubly linked list
+
+A linked list is a dynamic linear data structure used for storing collections of data. A linked list is represented as a collection of nodes, with a link between consecutive nodes. The number of nodes in a list is not fixed and can grow and shrink on demand. Each node of a linked list contains the data associated with a given node and a reference to the next node, in case of singly linked list. In this scenario, we are interested in keeping a reference to the previous node as well. The last node has a next reference to null. The first node has a previous reference to null. The entry point into a linked list is called the head of the list. The last node of a linked list is called the tail of the list. If the linked list is empty, then both head and tail are null references.
+
+>Solution in file : [Doubly_linked_list.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Doubly_linked_list.ipynb)
+
+## Genetic algorithm, very easy version
+
+Strive to algorithmically generate a breed of smarter dogs, i.e., generate a population of dogs with an average smart factor higher than a given threshold, starting from a population way duller than our target.
+
+>Solution in file : [Easy_genetic_algorithm.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Easy_genetic_algorithm.ipynb)
+
 ## Right triangles
 
 Given an array of positive integers, find the number of orthogonal triangles that can be formed with three elements of this array.
