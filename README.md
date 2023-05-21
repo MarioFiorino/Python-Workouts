@@ -158,12 +158,29 @@ Given an array of positive integers, find the number of orthogonal triangles tha
 
 >Solution in file : [right_triangles.py](https://github.com/MarioFiorino/Python-Workouts/blob/main/right_triangles.py)
 
-## Genetic algorithm, very easy version
+## Mandelbrot Set
 
-Strive to algorithmically generate a breed of smarter dogs, i.e., generate a population of dogs with an average smart factor higher than a given threshold, starting from a population way duller than our target.
+You are required to write a pure Python implementation of a function to evaluate the Mandelbrot set, using iteration, and a vectorized function using NumPy and its arrays. You then must evaluate and compare the performance of the two approaches.
 
->Solution in file : [Easy_genetic_algorithm.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Easy_genetic_algorithm.ipynb)
+>Solution in file : [Mandelbrot_Set_Compared.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Mandelbrot_Set_Compared.ipynb)
 
+## Descriptive analysis with Pandas
+
+Take into account a dataset containing information regarding a market analysis in the mobile telephony sector. The dataset contains information regarding the technical characteristics of the devices and price ranges. The purpose of the analysis will be to study the various characteristics of the devices, in order to understand how these affect the price of the device.
+
+>Solution in file : [Descriptive_Analysis_with_Pandas.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Descriptive_Analysis_with_Pandas.ipynb)
+
+## Weather Stations with NumPy 
+
+Write a Python program to analyze atmospheric observations in file weather.csv using NumPy.
+
+>Solution in file : [Weather_Stations_Stat.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Weather_Stations_Stat.ipynb)
+
+## Weather Stations with Pandas
+
+Write a Python program to analyze atmospheric observations in file weather.csv using Pandas.
+
+>Solution in file : [Pandas_Weather_Stations.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Pandas_Weather_Stations.ipynb)
 
 ## At the Zoo
 
