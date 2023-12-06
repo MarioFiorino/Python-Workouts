@@ -182,6 +182,12 @@ Write a Python program to analyze atmospheric observations in file weather.csv u
 
 >Solution in file : [Pandas_Weather_Stations.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Pandas_Weather_Stations.ipynb)
 
+## User-Defined Data Structures
+
+In this notebook, we will explore a simplified implementation of several user-defined data structures in Python.
+
+>In file : [User_Defined Data Structures.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/User_Defined_Data_Structures.ipynb)
+
 ## At the Zoo
 
 Using object-oriented programming (OOP), is defined a zoo, with cages and animals. In addition, is given the opportunity to formulate queries about animals present in zoo.
