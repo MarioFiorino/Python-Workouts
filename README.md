@@ -204,7 +204,12 @@ Some instructions and tips on how to manage files in Colab cell
 >In file : [Work_with_file_in_colab_2.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/Work_with_file_in_colab_2.ipynb)
 
 
-## Tips: strings, sets, lists, dictionaries
+## Here are some tips and tricks
+
+Various - part 1
+
+>In file : [STTM_Part1.ipynb](https://github.com/MarioFiorino/Python-Workouts/blob/main/STTM_Part1.ipynb)  
+
 
 Some tips for using strings, sets, lists, and dictionaries
 
